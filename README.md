@@ -3,7 +3,7 @@
 An end-to-end data analytics pipeline analyzing customer churn patterns for Brazil's largest e-commerce platform, using 100K+ real transactions across a modern data stack.
 
 ## Live Dashboard
-**[View on Tableau Public →]([YOUR_TABLEAU_URL_HERE](https://public.tableau.com/app/profile/prannay.khushalani6822/viz/OlistE-commerceCustomerChurnAnalysis/Dashboard1))**
+**[View on Tableau Public →](https://public.tableau.com/app/profile/prannay.khushalani6822/viz/OlistE-commerceCustomerChurnAnalysis/Dashboard1)**
 
 ## Tech Stack
 | Layer | Tool |
